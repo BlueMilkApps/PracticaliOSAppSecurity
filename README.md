@@ -5,9 +5,9 @@ The versions correspond to the back and forth between developer and security ana
 
 http://www.totem.training/swift-ios-tips-tricks-tutorials-blog/slides-and-demo-files-from-jailbreak-security-summit-talk
 
-V1 - User Defaults (yikes!)
-V2 - Data Protection (but not good enough)
-V3 - NSCoding and Plists instead of User Defaults
-V4 - Core Data
-V5 - Keychain and TouchID
-V6 - The Apple Watch Edition!
+<p>V1 - User Defaults (yikes!)
+<p>V2 - Data Protection (but not good enough)
+<p>V3 - NSCoding and Plists instead of User Defaults
+<p>V4 - Core Data
+<p>V5 - Keychain and TouchID
+<p>V6 - The Apple Watch Edition!
